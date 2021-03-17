@@ -5004,6 +5004,11 @@ a.icon_bar_instagram span.b {
     color: #fff
 }
 
+a.icon_bar_github span.b {
+    background: #2a2726;
+    color: #fff
+}
+
 
 /* get_in_touch */
 
